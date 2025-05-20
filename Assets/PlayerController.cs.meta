@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8944d095eaddebd4582d26b3a0c75ca9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - asaip: {fileID: 5711940792404764847, guid: 2d7708abdc485cd40a4668fb000873e1, type: 3}
+  - akebip: {fileID: 916022593665444176, guid: ee0744edf8547cb4b9dfa5c066b0def1, type: 3}
+  - kakip: {fileID: 5628577308420195641, guid: f624239ca869da94581c4ad5accf4cc0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
